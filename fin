@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Instruments</title>
+  <meta name="description" content="Learn about financial instruments such as stocks, cryptocurrencies, and ETFs. Understand their benefits, risks, and investment potential.">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Understanding Financial Instruments</h1>
+        <nav>
+            <ul>
+                <li><a href="#stocks">Stocks</a></li>
+                <li><a href="#crypto">Cryptocurrencies</a></li>
+                <li><a href="#etfs">ETFs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>What Are Financial Instruments?</h2>
+            <p>Financial instruments are tradable assets that can be used for investment and risk management. The most common types include stocks, cryptocurrencies, and exchange-traded funds (ETFs). Learn more on <a href="https://www.investopedia.com/terms/f/financialinstrument.asp" target="_blank">Investopedia</a>.</p>
+        </section>
+
+        <section id="stocks">
+            <h2>Stocks</h2>
+            <p>Stocks represent ownership in a company. When you buy shares of a company, you become a shareholder and may receive dividends or benefit from capital appreciation.</p>
+            <ul>
+                <li>Common stocks grant voting rights and potential dividends.</li>
+                <li>Preferred stocks usually offer fixed dividends but limited voting rights.</li>
+            </ul>
+            <img src="img/images:stocks.webp" alt="Stock market graph showing trends" width="70%">
+        </section>
+
+        <section id="crypto">
+            <h2>Cryptocurrencies</h2>
+            <p>Cryptocurrencies are digital assets that use blockchain technology to ensure security and decentralization. Unlike traditional currencies, they are not controlled by any central authority.</p>
+            <ul>
+                <li>Bitcoin (BTC) - The first and most well-known cryptocurrency.</li>
+                <li>Ethereum (ETH) - A blockchain supporting smart contracts and decentralized applications.</li>
+                <li>Stablecoins - Cryptos pegged to fiat currencies for reduced volatility.</li>
+            </ul>
+            <img src="img/images:crypto.webp" alt="Cryptocurrency coins including Bitcoin and Ethereum" width="70%">
+        </section>
+
+        <section id="etfs">
+            <h2>Exchange-Traded Funds (ETFs)</h2>
+            <p>ETFs are investment funds that track indices, commodities, or sectors. They provide diversification and are traded like stocks on exchanges.</p>
+            <ul>
+                <li>Broad Market ETFs - Track major indices like the S&P 500.</li>
+                <li>Sector ETFs - Focus on specific industries such as technology or healthcare.</li>
+                <li>Bond ETFs - Invest in fixed-income securities for lower risk.</li>
+            </ul>
+            <img src="img/images:etfs.webp" alt="ETF trading chart with market data" width="70%">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Financial Hub Example Company | <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+    </footer>
+</body>
+</html>
